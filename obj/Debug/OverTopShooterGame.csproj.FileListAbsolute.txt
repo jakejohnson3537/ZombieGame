@@ -1,0 +1,11 @@
+C:\Users\jakej\source\repos\OverTopShooterGame\OverTopShooterGame\bin\Debug\OverTopShooterGame.exe.config
+C:\Users\jakej\source\repos\OverTopShooterGame\OverTopShooterGame\bin\Debug\OverTopShooterGame.exe
+C:\Users\jakej\source\repos\OverTopShooterGame\OverTopShooterGame\bin\Debug\OverTopShooterGame.pdb
+C:\Users\jakej\source\repos\OverTopShooterGame\OverTopShooterGame\obj\Debug\OverTopShooterGame.zombieGame.resources
+C:\Users\jakej\source\repos\OverTopShooterGame\OverTopShooterGame\obj\Debug\OverTopShooterGame.Properties.Resources.resources
+C:\Users\jakej\source\repos\OverTopShooterGame\OverTopShooterGame\obj\Debug\OverTopShooterGame.csproj.GenerateResource.cache
+C:\Users\jakej\source\repos\OverTopShooterGame\OverTopShooterGame\obj\Debug\OverTopShooterGame.csproj.CoreCompileInputs.cache
+C:\Users\jakej\source\repos\OverTopShooterGame\OverTopShooterGame\obj\Debug\OverTopShooterGame.exe
+C:\Users\jakej\source\repos\OverTopShooterGame\OverTopShooterGame\obj\Debug\OverTopShooterGame.pdb
+C:\Users\jakej\source\repos\OverTopShooterGame\OverTopShooterGame\obj\Debug\OverTopShooterGame.TitleScreen.resources
+C:\Users\jakej\source\repos\OverTopShooterGame\OverTopShooterGame\obj\Debug\OverTopShooterGame.csproj.AssemblyReference.cache
